@@ -6,7 +6,6 @@ Python app for CI CD
 git clone https://github.com/singh-ashok25/python-web-app.git
 cd python-web-app
 ```
-more instructions here
 
 
 
