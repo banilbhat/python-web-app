@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
            steps {
-                echo 'Starting buil'
+                echo 'Starting build'
                  sh "sudo yum -y install python3"
                  sh "sudo pip3 install --upgrade pip"
                  sh "python3 -m venv venv"
